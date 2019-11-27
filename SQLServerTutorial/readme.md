@@ -9,3 +9,4 @@ __PARTS__
 4) Adding a default contraint   
 5) Cascading referential integrity constraint  
 6) Adding a check constraint  
+7) Identity Column
