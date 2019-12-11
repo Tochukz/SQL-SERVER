@@ -17,3 +17,11 @@ __PARTS__
 
 11) [Group By](https://github.com/Tochukz/SQL-SERVER/blob/master/SQLServerTutorial/11-20.md)  
 12) [JOIN in SQL Server](https://github.com/Tochukz/SQL-SERVER/blob/master/SQLServerTutorial/11-20.md)
+13) [Advanced JOIN in SQL Server](https://github.com/Tochukz/SQL-SERVER/blob/master/SQLServerTutorial/11-20.md)
+14) [Self Join in SQL Server](https://github.com/Tochukz/SQL-SERVER/blob/master/SQLServerTutorial/11-20.md)
+15) [Different ways to replace NULL in SQL Server](https://github.com/Tochukz/SQL-SERVER/blob/master/SQLServerTutorial/11-20.md)
+16) [Coalesce function in SQL Server](https://github.com/Tochukz/SQL-SERVER/blob/master/SQLServerTutorial/11-20.md)
+17)
+18)
+19)
+20)
