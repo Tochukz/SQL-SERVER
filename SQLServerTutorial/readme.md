@@ -15,12 +15,12 @@ __PARTS__
 10) [Select Statements](https://github.com/Tochukz/SQL-SERVER/blob/master/SQLServerTutorial/1-10.md#Part-10-Select-Statements)  
 
 
-11) [Group By](https://github.com/Tochukz/SQL-SERVER/blob/master/SQLServerTutorial/11-20.md)  
-12) [JOIN in SQL Server](https://github.com/Tochukz/SQL-SERVER/blob/master/SQLServerTutorial/11-20.md)
-13) [Advanced JOIN in SQL Server](https://github.com/Tochukz/SQL-SERVER/blob/master/SQLServerTutorial/11-20.md)
-14) [Self Join in SQL Server](https://github.com/Tochukz/SQL-SERVER/blob/master/SQLServerTutorial/11-20.md)
-15) [Different ways to replace NULL in SQL Server](https://github.com/Tochukz/SQL-SERVER/blob/master/SQLServerTutorial/11-20.md)
-16) [Coalesce function in SQL Server](https://github.com/Tochukz/SQL-SERVER/blob/master/SQLServerTutorial/11-20.md)
+11) [Group By](https://github.com/Tochukz/SQL-SERVER/blob/master/SQLServerTutorial/11-20.md#Part-11-GROUP-BY)  
+12) [JOIN in SQL Server](https://github.com/Tochukz/SQL-SERVER/blob/master/SQLServerTutorial/11-20.md#Part-12-Join-in-SQL-Server)
+13) [Advanced JOIN in SQL Server](https://github.com/Tochukz/SQL-SERVER/blob/master/SQLServerTutorial/11-20.md#Part-13-Advanced-JOIN-in-SQL-Server)
+14) [Self Join in SQL Server](https://github.com/Tochukz/SQL-SERVER/blob/master/SQLServerTutorial/11-20.md#Part-14-Self-Join-in-SQL-Server)
+15) [Different ways to replace NULL in SQL Server](https://github.com/Tochukz/SQL-SERVER/blob/master/SQLServerTutorial/11-20.md#Part-15-Different-ways-to-replace-NULL-in-SQL-Server)
+16) [Coalesce function in SQL Server](https://github.com/Tochukz/SQL-SERVER/blob/master/SQLServerTutorial/11-20.md#Part-16-Coalesce-function-in-SQL-Server)
 17)
 18)
 19)
