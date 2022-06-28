@@ -6,7 +6,7 @@ __PARTS__
 1) [Connecting to SQL Server using SSMS](https://github.com/Tochukz/SQL-SERVER/blob/master/SQLServerTutorial/1-10.md#Part-1-Connecting-to-SQL-Server-using-SSMS)    
 2) [Creating, altering and dropping a database](https://github.com/Tochukz/SQL-SERVER/blob/master/SQLServerTutorial/1-10.md#Part-2-Creating,-altering-and-dropping-a-database)  
 3) [Creating and working with tables](https://github.com/Tochukz/SQL-SERVER/blob/master/SQLServerTutorial/1-10.md#Part-3-Creating-and-working-with-tables)    
-4) [Adding a default constraint](https://github.com/Tochukz/SQL-SERVER/blob/master/SQLServerTutorial/1-10.md#Part-4-Adding-a-default-contraint)   
+4) [Adding a default constraint](https://github.com/Tochukz/SQL-SERVER/blob/master/SQLServerTutorial/1-10.md#Part-4-Adding-a-default-constraint)   
 5) [Cascading referential integrity constraint](https://github.com/Tochukz/SQL-SERVER/blob/master/SQLServerTutorial/1-10.md#Part-5-Cascading-referential-integrity-constraint)  
 6) [Adding a check constraint](https://github.com/Tochukz/SQL-SERVER/blob/master/SQLServerTutorial/1-10.md#Part-6-Adding-a-check-constraint)  
 7) [Identity Column](https://github.com/Tochukz/SQL-SERVER/blob/master/SQLServerTutorial/1-10.md#Part-7-Identity-Column)  
